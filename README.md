@@ -1,1 +1,1 @@
-#The objective of the game is to avoid the COVID cells and survive for the longest time. The player will be able to move around the screen and cells will spawn every 15 seconds. We were inspired by the pandemic.
+#The objective of the game is to avoid the COVID-19 cells. The player will be able to move around the screen using arrow keys and cells will spawn every 15 seconds. We were, of course,  inspired by the ongoing pandemic.
